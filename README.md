@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&customColorList=1&height=80&section=header&fontSize=90&reversal=true)  
 🎓 I'm a Research Engineer at Noah's Ark Lab at Huawei in Hong Kong.  
-🔆 My work has mainly been related to time series, including anomaly detection, forecasting, root cause analysis/localization, and spatio-temporal graphs.   
-🌱 My research interests are quite broad but I find the intersection of machine learning and graphs fascinating and I'm trying to dig deeper into the area.
+🔆 My work has previously mainly been related to time series, including anomaly detection, forecasting, root cause analysis/localization, and spatio-temporal graphs. These days I'm getting more involved with robotics.  
+🌱 My research interests are quite broad but I find the intersection of machine learning and robotics fascinating and I'm trying to dig deeper into the area. My focus right now is on dexterous manipulation.
  <br/><br/>
 
 <p align="left">
